@@ -65,10 +65,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-66&show_icons=true&locale=en" alt="nishant-66" /></p>
 
-<h3 align="left">LeetCode Profile:</h3>
-<p align="left">
-  <a href="https://leetcode.com/u/Kumar_Nishant/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
-    Kumar Nishant
-  </a>
-</p>
+
+
